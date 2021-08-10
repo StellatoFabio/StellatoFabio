@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StellatoFabio
 - 👀 I’m interested in HR business
-- 🌱 I’m currently learning basic programming languages
+- 🌱 I’m currently learning basic programming languages and project management
 - 💞️ I’m looking to collaborate on exciting projects.
 - 📫 How to reach me ...
 
